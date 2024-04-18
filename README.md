@@ -35,8 +35,6 @@
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 -->
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/Osxmaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Osxmaaa_" height="30" width="40" /></a>
