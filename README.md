@@ -28,12 +28,9 @@
 
 
 - ### I’m currently learning 
-![node.js](https://img.shields.io/badge/-Laravel-%23282C34?style=flat-square&logo=laravel&logoWidth=30) &nbsp;
-![mongodb](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000&logoWidth=30)
-<!--
-![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
-![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
--->
+![node.js](https://img.shields.io/badge/-node-%23282C34?style=flat-square&logo=laravel&logoWidth=30) &nbsp;
+![mongodb](https://img.shields.io/badge/-mongodb-fff?style=flat-square&logo=notion&logoColor=000&logoWidth=30)
+
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
