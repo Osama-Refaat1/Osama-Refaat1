@@ -5,8 +5,8 @@
 
 <img align="right" src="https://media.giphy.com/media/TwdpzgvGszo7j1t6Io/giphy.gif" alt="Coder GIF" width="380" height="280">
 
-<h3>🚀 About Me</h3> 
-<h4>Backend Enthusiast, Passionate about the inner workings of systems and cybersecurity. Constantly exploring and learning in tech field.</h4>
+<h3>About Me</h3> 
+<h4>Always learning.</h4>
 <br/>
 <br/>
 <br/>
@@ -28,8 +28,8 @@
 
 
 - ### I’m currently learning 
-![laravel](https://img.shields.io/badge/-Laravel-%23282C34?style=flat-square&logo=laravel&logoWidth=30) &nbsp;
-![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000&logoWidth=30)
+![node.js](https://img.shields.io/badge/-Laravel-%23282C34?style=flat-square&logo=laravel&logoWidth=30) &nbsp;
+![mongodb](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000&logoWidth=30)
 <!--
 ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
