@@ -50,19 +50,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Osama-Refaat1/Osama-Refaat1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-    <a href="https://www.linkedin.com/in/Osama-Refaat1">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
-  </a>
-    <a href="mailto:osamarefaat93@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
-  </a>
-    <a href="https://wa.me/+201145392497">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="50" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
